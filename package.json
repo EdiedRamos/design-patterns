@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "singleton": "npx ts-node typescript/creational/singleton.ts"
+    "singleton": "npx ts-node typescript/creational/singleton.ts",
+    "structural:proxy": "npx ts-node typescript/structural/proxy/main.ts"
   },
   "keywords": [],
   "author": "",
